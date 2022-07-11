@@ -4,10 +4,10 @@ This react dApp is based on the <a href="https://docs.metamask.io">MetaMask’s 
 
 In easy way, we can have 4 different situations:
 
-**1. MetaMask browser extension is ==not installed==** 
-**2. MetaMask is ==installed, but not connected to the dApp==** 
-**3. MetaMask is ==installed and connected, but not on the right network==** 
-**4. MetaMask is installed, connected and is also on the right network** ✔️
+1. MetaMask browser extension is ==not installed==
+2. MetaMask is ==installed, but not connected to the dApp==
+3. MetaMask is ==installed and connected, but not on the right network== 
+4. MetaMask is installed, connected and is also on the right network ✔️
 
 Each of this possible stages are catched and handled intuitively by the user directly in the UI.
 
