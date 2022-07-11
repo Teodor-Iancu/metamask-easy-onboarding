@@ -1,4 +1,4 @@
-## About Easy MetaMask Onboarding dApp
+## About Easy MetaMask Onboarding dApp 🦊
 
 This react dApp is based on the <a href="https://docs.metamask.io">MetaMask’s Developer documentation</a> and is intended to help developers who want to use MetaMask in their projects with as little friction as possible.
 
