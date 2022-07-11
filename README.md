@@ -2,7 +2,7 @@
 
 This react dApp is based on the <a href="https://docs.metamask.io">MetaMask’s Developer documentation</a> and is intended to help developers who want to use MetaMask in their projects with as little friction as possible.
 
-In easy way, we can have 4 different situations:
+**In easy way, we could have 4 different situations:**
 
 1. MetaMask browser extension is ***not installed***
 
